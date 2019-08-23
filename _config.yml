@@ -2,11 +2,13 @@
 title: JangHan's github
 baseurl: "/janghann.github.io"
 desc: A minimal blog for off-topic blog entries.
-about: I am a web developer, software engineer, and project manager currently living in Collinsville, Illinois. I'm a little weird but pretty friendly.
+about: I am a freshman, THE Division of Computer Science, ChungNam National Univ.
+Please be advised that posting's topic and tags are important.
 image: https://pinto-light.glitch.me/?width=500&height=500&url=https://i.imgur.com/mxUVc2x.jpg&extension=jpg
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
 gems:
+
 - jekyll-paginate
 exclude:
   - .jekyll-metadata
