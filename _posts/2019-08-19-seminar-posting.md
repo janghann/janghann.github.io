@@ -1,7 +1,9 @@
 ---
-title: standard posting
+title: seminar posting
 tags:
-- mogaco
+- ARGOS
+- seminar
+- 2019년8월19일
 desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula gravida felis et dapibus.
 layout: post
 ---
