@@ -6,17 +6,10 @@ tags:
 - Sixth Posting
 desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vehicula gravida felis et dapibus.
 layout: post
-<!-- more -->
-<!-- Mauris a molestie neque. Aliquam non malesuada nisi, a sodales purus. Nam molestie faucibus sapien eu euismod. Sed scelerisque ornare euismod. In tincidunt est vel pharetra convallis. Praesent vitae nisi odio.-->
 ---
 
-## 
-
-```html
-
-```
-
-
+<!-- more -->
+<!-- Mauris a moestie neque. Aliquam non malesuada nisi, a sodales purus. Nam molestie faucibus sapien eu euismod. Sed scelerisque ornare euismod. In tincidunt est vel pharetra convallis. Praesent vitae nisi odio.-->
 
 매일매일공부하는팀 1일차.
 
